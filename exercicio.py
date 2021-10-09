@@ -1,1 +1,1 @@
-print("Pfvr deus, me leva")
+print("Pfvr deus me leva tem piedade senhor")
